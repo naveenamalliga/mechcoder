@@ -1,3 +1,2 @@
-a=str(input("enter the string")
-c=count(' ')
-print(no. of spaces in given spring",c)
+a=str(input("enter the string"))
+print("no. of spaces in given spring",a.count(' '))
