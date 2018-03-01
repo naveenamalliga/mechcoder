@@ -1,3 +1,3 @@
-a=str(input("enter the string"))
-c=len(a)-a.count(' ')
+s=str(input("enter the string"))
+c=len(s)-s.count(' ')
 print("no. of character in string",c)
